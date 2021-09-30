@@ -1,6 +1,12 @@
 # Chat_Application-Java (Worked in it alone)
 This is full chat application, full functions Client-Server and Multi-users using Socket Programming, with GUI in java.
 
+There are two zipped folders one with sound features and one without sound features as there are some new versions in eclipse does not allow anymore using some old libraries.
+
+# One more tip:
+
+I recommend using Eclipse instead of Netbeans in this project. It will work with you very fine, just import the project normally and have fun :D.
+
 # It contains the following features:
 
 1) Applicable for multi-users.
