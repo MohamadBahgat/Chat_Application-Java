@@ -16,3 +16,7 @@ I recommend using Eclipse instead of Netbeans in this project. It will work with
 5) Notification about who came online and who went off.
 6) Sound notifications for some features in it.
 7) Simple, comfortable, Perfect GUI.
+
+# Video for the App:
+
+https://youtu.be/gkLuc40ZgVw
